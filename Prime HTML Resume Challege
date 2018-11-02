@@ -11,12 +11,12 @@
   </head>
 
 
-  <body>  
+  <body class="container-fluid">  
   <header role="banner">
     <img src="https://i.imgur.com/TDwfApl.jpg" alt="Patrick">
   </header>
   
-    <div class="container-fluid"
+    
     
     <div class="title">
       <h1>Patrick Zarkha</h1>
