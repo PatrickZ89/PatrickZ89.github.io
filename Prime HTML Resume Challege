@@ -1,10 +1,77 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>Github page</title>
-  <link rel="stylesheet" href="style.css"/>
-</head>
-<body>
-<p>Hey! </p>
-</body>
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Patrick Zarkha's Resume</title>
+    <link data-require="bootstrap@*" data-semver="4.1.1" rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="style.css" />
+    <script src="script.js"></script>
+  </head>
+
+
+  <body>  
+  <header role="banner">
+    <img src="https://i.imgur.com/TDwfApl.jpg" alt="Patrick">
+  </header>
+  
+    <div class="container-fluid"
+    
+    <div class="title">
+      <h1>Patrick Zarkha</h1>
+      <h3> Developer in training</h3>
+    </div>
+    <div class="row title">
+        275 Baker Street East, St. Paul, MN |651-786-9413|  pzarkha@hotmail.com
+    </div>
+  
+      
+      <div>
+        <h2> Education</h2> 
+        <span> Roseville Area High School </span><br/>
+        <h4> High School Diploma - 2007</h4> <br />
+        
+        <span> Century College </span><br />
+        <h4> AA Degree - 2014</h4>
+        </div>
+        
+      
+      <div class="experience">
+        <h2>Work Experience</h2>
+        <span>Sales Associate, Menards</span> <br/>
+        <h4>Maplewood, MN 2009-2010</h4>
+        
+         <span> Apprentice Plumber, Independent Plumber</span>
+        <h4>Minneapolis, MN 2010-2015</h4>
+        <span>Service Technician, Air Tech </span> <br/>
+        <h4>St. Paul, MN 2015-2016 </h4>
+        
+        <span>Senior Facilities Technician, West Side Community Health</span>
+        <h4>St. Paul, MN 2016-present </h4>
+       
+    <h2> Accomplishments</h2>
+    <ul>
+      <li>Effictive communication with customers and coworkers</li>
+      <li>Acquired vast experience in problem solving</li>
+    </ul>
+        
+    <h2>Skills</h2>
+<ul> 
+<li>Extensive communication and teamwork ability</li>
+<li>Problem solving skills and creative style</li>
+<li>Positive attitude and workmanship skills</li>
+<li>Proficient with Microsoft programs and computer functions</li>
+<li>Willingness to learn and help others</li>
+</ul>    
+    
+      </div>
+    
+    
+    
+    
+    
+  
+  </body>
+
 </html>
