@@ -1,3 +1,46 @@
-p {
-color: red;
+#container {
+  margin-top: 20px;
+  margin-left: 200px;
+  margin-right: 200px;
+  
+  padding: 10px 150px 10px 150px;
+  
+  border-radius: 15px;
+  Background-color: #C4CECD;
+  
+  text-align: left;
+  }
+  
+  .title {
+    color: #2a7b89;
+    border-bottom: 2px solid #2a7b89;
+    padding: 0;
+  }
+  
+  .experience { margin-top: 40px; }
+  
+
+h1 {
+  font-size: 64px;
+  margin-bottom: 25px;
+}
+
+h2 {
+  font-size: 26px;
+  Margin-bottom: 6px;
+}
+
+h3 {
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+
+h4 {
+  font-size: 10px;
+  margin-bottom: 10px;
+}
+
+li {
+  font-size: 15px;
+  text-align
 }
